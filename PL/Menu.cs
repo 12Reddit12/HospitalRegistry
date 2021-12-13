@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
@@ -74,9 +74,10 @@ namespace PL
                             "4.Delete Doctor\n" +
                             "5.Add Schedule Doctor\n"+
                             "6.Show Schedule List With Doctors\n" +
-                            "7.Edit Schedule Doctor\n" +
-                            "8.Remove Schedule Doctor\n"+
-                        "9.Back\n");
+                            "7.Find Doctor Schedule\n" +
+                            "8.Edit Schedule Doctor\n" +
+                            "9.Remove Schedule Doctor\n"+
+                        "0.Back\n");
 
                         command = Console.ReadLine();
                         switch (command)
@@ -200,6 +201,35 @@ namespace PL
                                 catch (Exception e) { Console.WriteLine(e.Message); Console.ReadKey(); }
                                 break;
                             case "7":
+                                try
+                                {
+
+                                    Doctor doc = docserv.GetDoctor(eNumInt("ID Doctor"));
+                                    int hour = eNumInt("Hour");
+                                    int ids = 0;
+                                        Console.WriteLine($"Schedule Finded:\n");
+                                        foreach (var schedule in doc.Schedule)
+                                        {
+                                        ids++;
+                                        if (schedule.Hour != hour)
+                                        {
+                                            continue;
+                                        }
+                                        if (schedule.client != null)
+                                            {
+                                                Console.WriteLine($"ID:{ids} {schedule.Hour.ToString("00")}:{schedule.Minute.ToString("00")} Has a patient");
+                                            }
+                                            else
+                                            {
+                                                Console.WriteLine($"ID:{ids} {schedule.Hour.ToString("00")}:{schedule.Minute.ToString("00")} No patients writed");
+                                            }
+                                            
+                                        }
+                                       
+                                }
+                                catch (Exception e) { Console.WriteLine(e.Message); Console.ReadKey(); }
+                                break;
+                            case "8":
                                
                                 try
                                 {
@@ -207,7 +237,7 @@ namespace PL
                                 }
                                 catch (Exception e) { Console.WriteLine(e.Message); Console.ReadKey(); }
                                 break;
-                            case "8":
+                            case "9":
                                 
                                 try
                                 {
@@ -215,7 +245,7 @@ namespace PL
                                 }
                                 catch (Exception e) { Console.WriteLine(e.Message); Console.ReadKey(); }
                                 break;
-                            case "9":
+                            case "0":
                                
                                 break;
                             default:
