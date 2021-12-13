@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\HospitalRegistryCursach\HospitalRegistryCursach\bin\Debug\HospitalRegistryCursach.exe.config
+C:\Users\Admin\source\repos\HospitalRegistryCursach\HospitalRegistryCursach\bin\Debug\HospitalRegistryCursach.exe
+C:\Users\Admin\source\repos\HospitalRegistryCursach\HospitalRegistryCursach\bin\Debug\HospitalRegistryCursach.pdb
+C:\Users\Admin\source\repos\HospitalRegistryCursach\HospitalRegistryCursach\bin\Debug\PL.dll
+C:\Users\Admin\source\repos\HospitalRegistryCursach\HospitalRegistryCursach\bin\Debug\BLL.dll
+C:\Users\Admin\source\repos\HospitalRegistryCursach\HospitalRegistryCursach\bin\Debug\DAL.dll
+C:\Users\Admin\source\repos\HospitalRegistryCursach\HospitalRegistryCursach\bin\Debug\PL.pdb
+C:\Users\Admin\source\repos\HospitalRegistryCursach\HospitalRegistryCursach\bin\Debug\BLL.pdb
+C:\Users\Admin\source\repos\HospitalRegistryCursach\HospitalRegistryCursach\bin\Debug\DAL.pdb
+C:\Users\Admin\source\repos\HospitalRegistryCursach\HospitalRegistryCursach\obj\Debug\HospitalRegistryCursach.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\HospitalRegistryCursach\HospitalRegistryCursach\obj\Debug\HospitalRegistryCursach.csproj.CopyComplete
+C:\Users\Admin\source\repos\HospitalRegistryCursach\HospitalRegistryCursach\obj\Debug\HospitalRegistryCursach.exe
+C:\Users\Admin\source\repos\HospitalRegistryCursach\HospitalRegistryCursach\obj\Debug\HospitalRegistryCursach.pdb

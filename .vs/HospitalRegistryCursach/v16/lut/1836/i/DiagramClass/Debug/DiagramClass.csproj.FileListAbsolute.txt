@@ -1,0 +1,3 @@
+C:\Users\Admin\source\repos\HospitalRegistryCursach\.vs\HospitalRegistryCursach\v16\lut\0\b\DiagramClass\bin\Debug\DiagramClass.dll
+C:\Users\Admin\source\repos\HospitalRegistryCursach\.vs\HospitalRegistryCursach\v16\lut\0\i\DiagramClass\Debug\DiagramClass.csproj.CopyComplete
+C:\Users\Admin\source\repos\HospitalRegistryCursach\.vs\HospitalRegistryCursach\v16\lut\0\i\DiagramClass\Debug\DiagramClass.dll

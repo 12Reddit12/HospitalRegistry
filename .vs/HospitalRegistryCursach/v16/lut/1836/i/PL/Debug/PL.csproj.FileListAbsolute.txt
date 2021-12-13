@@ -1,0 +1,4 @@
+C:\Users\Admin\source\repos\HospitalRegistryCursach\.vs\HospitalRegistryCursach\v16\lut\0\b\PL\bin\Debug\PL.dll
+C:\Users\Admin\source\repos\HospitalRegistryCursach\.vs\HospitalRegistryCursach\v16\lut\0\i\PL\Debug\PL.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\HospitalRegistryCursach\.vs\HospitalRegistryCursach\v16\lut\0\i\PL\Debug\PL.csproj.CopyComplete
+C:\Users\Admin\source\repos\HospitalRegistryCursach\.vs\HospitalRegistryCursach\v16\lut\0\i\PL\Debug\PL.dll

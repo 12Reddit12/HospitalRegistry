@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\HospitalRegistryCursach\PL\bin\Debug\PL.dll
+C:\Users\Admin\source\repos\HospitalRegistryCursach\PL\bin\Debug\PL.pdb
+C:\Users\Admin\source\repos\HospitalRegistryCursach\PL\bin\Debug\BLL.dll
+C:\Users\Admin\source\repos\HospitalRegistryCursach\PL\bin\Debug\DAL.dll
+C:\Users\Admin\source\repos\HospitalRegistryCursach\PL\bin\Debug\BLL.pdb
+C:\Users\Admin\source\repos\HospitalRegistryCursach\PL\bin\Debug\DAL.pdb
+C:\Users\Admin\source\repos\HospitalRegistryCursach\PL\obj\Debug\PL.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\HospitalRegistryCursach\PL\obj\Debug\PL.csproj.CopyComplete
+C:\Users\Admin\source\repos\HospitalRegistryCursach\PL\obj\Debug\PL.dll
+C:\Users\Admin\source\repos\HospitalRegistryCursach\PL\obj\Debug\PL.pdb

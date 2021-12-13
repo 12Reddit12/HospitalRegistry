@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\HospitalRegistryCursach\DiagramClass\bin\Debug\DiagramClass.dll
+C:\Users\Admin\source\repos\HospitalRegistryCursach\DiagramClass\bin\Debug\DiagramClass.pdb
+C:\Users\Admin\source\repos\HospitalRegistryCursach\DiagramClass\bin\Debug\BLL.dll
+C:\Users\Admin\source\repos\HospitalRegistryCursach\DiagramClass\bin\Debug\DAL.dll
+C:\Users\Admin\source\repos\HospitalRegistryCursach\DiagramClass\bin\Debug\HospitalRegistryCursach.exe
+C:\Users\Admin\source\repos\HospitalRegistryCursach\DiagramClass\bin\Debug\PL.dll
+C:\Users\Admin\source\repos\HospitalRegistryCursach\DiagramClass\bin\Debug\BLL.pdb
+C:\Users\Admin\source\repos\HospitalRegistryCursach\DiagramClass\bin\Debug\DAL.pdb
+C:\Users\Admin\source\repos\HospitalRegistryCursach\DiagramClass\bin\Debug\HospitalRegistryCursach.pdb
+C:\Users\Admin\source\repos\HospitalRegistryCursach\DiagramClass\bin\Debug\HospitalRegistryCursach.exe.config
+C:\Users\Admin\source\repos\HospitalRegistryCursach\DiagramClass\bin\Debug\PL.pdb
+C:\Users\Admin\source\repos\HospitalRegistryCursach\DiagramClass\obj\Debug\DiagramClass.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\HospitalRegistryCursach\DiagramClass\obj\Debug\DiagramClass.csproj.CopyComplete
+C:\Users\Admin\source\repos\HospitalRegistryCursach\DiagramClass\obj\Debug\DiagramClass.dll
+C:\Users\Admin\source\repos\HospitalRegistryCursach\DiagramClass\obj\Debug\DiagramClass.pdb

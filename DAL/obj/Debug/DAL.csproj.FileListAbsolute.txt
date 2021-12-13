@@ -1,0 +1,5 @@
+C:\Users\Admin\source\repos\HospitalRegistryCursach\DAL\bin\Debug\DAL.dll
+C:\Users\Admin\source\repos\HospitalRegistryCursach\DAL\bin\Debug\DAL.pdb
+C:\Users\Admin\source\repos\HospitalRegistryCursach\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\HospitalRegistryCursach\DAL\obj\Debug\DAL.dll
+C:\Users\Admin\source\repos\HospitalRegistryCursach\DAL\obj\Debug\DAL.pdb

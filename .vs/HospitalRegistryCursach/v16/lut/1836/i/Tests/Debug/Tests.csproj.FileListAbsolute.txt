@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\HospitalRegistryCursach\.vs\HospitalRegistryCursach\v16\lut\0\b\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Admin\source\repos\HospitalRegistryCursach\.vs\HospitalRegistryCursach\v16\lut\0\b\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Admin\source\repos\HospitalRegistryCursach\.vs\HospitalRegistryCursach\v16\lut\0\b\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Admin\source\repos\HospitalRegistryCursach\.vs\HospitalRegistryCursach\v16\lut\0\b\Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Admin\source\repos\HospitalRegistryCursach\.vs\HospitalRegistryCursach\v16\lut\0\b\Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Admin\source\repos\HospitalRegistryCursach\.vs\HospitalRegistryCursach\v16\lut\0\b\Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Admin\source\repos\HospitalRegistryCursach\.vs\HospitalRegistryCursach\v16\lut\0\b\Tests\bin\Debug\Tests.dll
+C:\Users\Admin\source\repos\HospitalRegistryCursach\.vs\HospitalRegistryCursach\v16\lut\0\i\Tests\Debug\Tests.csproj.CopyComplete
+C:\Users\Admin\source\repos\HospitalRegistryCursach\.vs\HospitalRegistryCursach\v16\lut\0\i\Tests\Debug\Tests.dll
+C:\Users\Admin\source\repos\HospitalRegistryCursach\.vs\HospitalRegistryCursach\v16\lut\0\i\Tests\Debug\Tests.csprojAssemblyReference.cache
